@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<user>
+    <username>emand</username>
+    <portfolio id="Port1">
+        <stock id="GOOG">
+            <cost>1072.32</cost>
+            <quantity>100.0</quantity>
+            <time>2020/03/20</time>
+            <symbol>GOOG</symbol>
+        </stock>
+    </portfolio>
+    <fportfolio id="Dream Funds">
+        <stock id="GOOG">
+            <cost>1048.21</cost>
+            <quantity>59.0</quantity>
+            <time>2018/05/05</time>
+            <symbol>GOOG</symbol>
+            <commission>0.0</commission>
+        </stock>
+    </fportfolio>
+</user>

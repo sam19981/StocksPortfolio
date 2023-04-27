@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<user>
+    <username>karthik543</username>
+    <portfolio id="Port1">
+        <stock id="AAPL">
+            <cost>175.84</cost>
+            <quantity>1.0</quantity>
+            <time>2022/02/02</time>
+            <symbol>AAPL</symbol>
+        </stock>
+    </portfolio>
+    <fportfolio id="Port2">
+        <stock id="IBM">
+            <cost>139.2</cost>
+            <quantity>2.0</quantity>
+            <time>2019/03/03</time>
+            <symbol>IBM</symbol>
+            <commission>4.0</commission>
+        </stock>
+        <stock id="NFLX">
+            <cost>267.43</cost>
+            <quantity>1.0</quantity>
+            <time>2018/02/02</time>
+            <symbol>NFLX</symbol>
+            <commission>39.9</commission>
+        </stock>
+    </fportfolio>
+    <fportfolio id="Port3">
+        <stock id="AAPL">
+            <cost>453.62</cost>
+            <quantity>20.0</quantity>
+            <time>2013/02/02</time>
+            <symbol>AAPL</symbol>
+            <commission>6.0</commission>
+        </stock>
+    </fportfolio>
+    <fportfolio id="Port4">
+        <stock id="NFLX">
+            <cost>520.7</cost>
+            <quantity>2.0</quantity>
+            <time>2021/03/03</time>
+            <symbol>NFLX</symbol>
+            <commission>39.0</commission>
+        </stock>
+        <stock id="AAPL">
+            <cost>175.84</cost>
+            <quantity>10.0</quantity>
+            <time>2022/02/02</time>
+            <symbol>AAPL</symbol>
+            <commission>3.0</commission>
+        </stock>
+        <stock id="IBM">
+            <cost>145.22</cost>
+            <quantity>2.0</quantity>
+            <time>2021/05/05</time>
+            <symbol>IBM</symbol>
+            <commission>2.1</commission>
+        </stock>
+    </fportfolio>
+</user>
